@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "stats": {
+    "total_commits": 0,
+    "unique_authors": 0,
+    "authors_list": [],
+    "date_range": {
+      "start": null,
+      "end": null
+    }
+  },
+  "categories": {
+    "features": [],
+    "bugfixes": [],
+    "improvements": [],
+    "docs": [],
+    "other": []
+  },
+  "all_commits": []
+}

@@ -1,0 +1,21 @@
+{
+  "report_type": "weekly",
+  "report_title": "工作周报",
+  "report_short_name": "周报",
+  "start_date": "2026-06-29",
+  "end_date": "2026-07-05",
+  "period_label": "2026-06-29 ~ 2026-07-05",
+  "output_html": "weekly-report-2026-07-05.html",
+  "output_pdf": "weekly-report-2026-07-05.pdf",
+  "labels": {
+    "stats": "数据统计",
+    "progress": "本周进展",
+    "todo": "任务完成情况",
+    "problems": "本周遇到的问题",
+    "growth": "本周个人成长",
+    "knowledge": "相关知识分享",
+    "plan": "下周计划",
+    "risks": "风险与问题"
+  },
+  "prompt": "帮我生成本周周报"
+}
